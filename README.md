@@ -1,5 +1,6 @@
 <p align="center"><img src="./Images/EUKsemble_logo.png" height="250"/></p>
-
+# Modify the script (20250610)
+The Contig files within the folder can be run in batches.
 # EUKsemble
 Pipeline for identification of eukaryotic contigs in metagenomic assemblies. Best performances are obtained by using an ensemble approach of different k-mer classifiers and a reference-based one.  
 
